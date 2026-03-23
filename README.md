@@ -8,5 +8,7 @@ The games include:
 * minesweeper 
 * patience (card games collection) 
 * chess 
-* checkers 
+* checkers
+* backgammon
+* reversi
 * blackjack (with poker chips for "bets")
